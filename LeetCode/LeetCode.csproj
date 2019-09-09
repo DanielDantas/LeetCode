@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="LeetCode.cs" />
     <Compile Include="Problems\TwoSumProblem.cs" />
+    <Compile Include="Problems\ValidPalindrome.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
